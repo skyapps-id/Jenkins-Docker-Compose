@@ -1,4 +1,4 @@
-# Docker Images for Laravel development
+# Docker Images for Jenkins development
 🚢[Docker Image](https://hub.docker.com/r/jenkins/jenkins/)
 
 ## Installation
